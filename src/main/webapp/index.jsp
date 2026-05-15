@@ -6,7 +6,11 @@
 
     <label for="email"><b>Email</b></label>
     <input type="text" placeholder="Enter Email" name="email" id="email" required>
-    
+   
+   <label for="email"><b>Adhar number/b></label>
+    <input type="text" placeholder="Enter Adhar" name="Adhar" id="Adhar" required>
+ 
+
      <label for="name"><b>Name</b></label>
     <input type="text" placeholder="Enter name" name="name" id="name" required>
 
