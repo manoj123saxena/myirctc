@@ -7,8 +7,11 @@
     <label for="email"><b>Email</b></label>
     <input type="text" placeholder="Enter Email" name="email" id="email" required>
    
-   <label for="email"><b>Adhar number/b></label>
+   <label for="Adhar Number"><b>Adhar number/b></label>
     <input type="text" placeholder="Enter Adhar" name="Adhar" id="Adhar" required>
+
+     <label for="Father Name"><b><Father Name/b></label>
+    <input type="text" placeholder="Father Name" name="Father Name" id="Father Name" required>
  
 
      <label for="name"><b>Name</b></label>
