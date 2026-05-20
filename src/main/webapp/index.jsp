@@ -13,6 +13,8 @@
      <label for="Father Name"><b><Father Name/b></label>
     <input type="text" placeholder="Father Name" name="Father Name" id="Father Name" required>
  
+    <label for="Mother Name"><b><Mother Name/b></label>
+    <input type="text" placeholder="Mother Name" name="Mother Name" id="Mother Name" required>
 
      <label for="name"><b>Name</b></label>
     <input type="text" placeholder="Enter name" name="name" id="name" required>
